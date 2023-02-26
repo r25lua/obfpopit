@@ -1,4 +1,4 @@
-local codes =
+_G.codes =
 {
 "holasoyd0ra",
 "ewww",
